@@ -1,5 +1,5 @@
   $(document).ready(function () {
-        //alert('is jquery loaded');
+        //alert('is jquery loaded!');
     });
     
 function validate() {
