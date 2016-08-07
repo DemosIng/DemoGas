@@ -75,3 +75,10 @@ input[type=button]{
 input[type=button]:hover{
     background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
 }
+
+#principal{
+    background-image: url(../img/abstracto2..jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    /*background-size: 100px 100px;*/
+}
